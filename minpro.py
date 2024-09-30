@@ -1,22 +1,22 @@
-# Menampung NIM dan password sementara
+# menampung NIM dan password sementara
 NIM = 2409116001
 pw = 12345678
 
-# Login sederhana
+# login sederhana
 while True:
     try:
         Login_us = int(input("NIM      : ")) 
         Login_pw = int(input("Password : "))
 
         if Login_us == NIM and Login_pw == pw:
-            print("\nLogin Berhasil! \n\nHi, Taufik Ramadhani")
-            break  # Keluar dari loop jika NIM dan password benar
+            print("\nLogin Berhasil! \n\n Hi, Taufik Ramadhani")
+            break  # keluar dari loop jika NIM dan password benar
         else:
             print("Masukkan NIM dan password yang benar!")
     except ValueError:
         print("Masukkan NIM dan password dengan angka yang benar!")
 
-# Menghitung gaji dan perulangan
+# menghitung gaji dan perulangan
 while True:
     try: 
         jam_kerja = float(input("\nSilahkan masukkan jam kerja: ")) 
@@ -25,10 +25,10 @@ while True:
         gaji_total = jam_kerja * tarif_per_jam  
         bonus = 0  
 
-        # Membuat percabangan jika jam kerja lebih dari 160
+        # membuat percabangan jika jam kerja lebih dari 160
         if jam_kerja > 160:
-            bonus = 0.1 * gaji_total  # Menghitung bonus 10%
-            gaji_total += bonus  # Menambahkan bonus ke gaji total
+            bonus = 0.1 * gaji_total  # menghitung bonus 10%
+            gaji_total += bonus  # menambahkan bonus ke gaji total
             print("Jam kerja lebih dari 160 jam, Anda akan mendapatkan bonus 10%.")
         else:
             print("Jam kerja tidak lebih dari 160 jam, Anda tidak mendapatkan bonus.")
@@ -40,10 +40,10 @@ while True:
 
     except ValueError:
         print("Masukkan jam kerja dan tarif gaji dengan benar!") 
-        continue  # Kembali ke awal loop untuk meminta input lagi
+        continue  # kembali ke awal loop untuk meminta input lagi
 
-    # Membuat perulangan dan percabangan jika ingin menghitung gaji lagi
+    # membuat perulangan dan percabangan jika ingin menghitung gaji lagi
     lanjut = input("Apakah Anda ingin menghitung gaji lagi? (y/n): ")
-    if lanjut.lower() != 'y':
-        print("======== SELESAI ========")  # Menampilkan pesan selesai
-        break  # Keluar dari loop
+    if lanjut.lower() != 'y': # lower di gunakan untuk meminimalisir capslock user
+        print("======== SELESAI ========")  # menampilkan pesan selesai
+        break  # keluar dari loop
