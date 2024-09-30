@@ -29,7 +29,12 @@ Sistem Informasi A
 
    ![4](https://github.com/user-attachments/assets/e967ab92-ead3-450e-953b-8fab2ef96717)
 
-4.Menanyakan apakah user ingin mengulang program atau tidak
+6. Jika jam kerja tidak lebih dari 160
+
+   ![Screenshot 2024-09-30 130734](https://github.com/user-attachments/assets/d50216d6-8c4d-4689-a0ee-05a7cd819a93)
+
+
+7. Menanyakan apakah user ingin mengulang program atau tidak
    
    ![6](https://github.com/user-attachments/assets/f58ed151-6b7c-4692-a78a-ad8f4a6c7337)
 
