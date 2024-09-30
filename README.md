@@ -10,7 +10,8 @@ Sistem Informasi A
 
 #Output
 
-![Screenshot 2024-09-30 124118](https://github.com/user-attachments/assets/30313466-8b3d-4461-b46c-433236a95b5f)
+![Screenshot 2024-09-30 223350](https://github.com/user-attachments/assets/901b81f7-4514-4c56-a84b-13634c757c52)
+
 
 #Penjelasan Output
 1. User memasukkan NIM dan Password
