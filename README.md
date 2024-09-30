@@ -5,7 +5,8 @@ Sistem Informasi A
 
 #Flowchart
 
-![Screenshot 2024-09-30 115550](https://github.com/user-attachments/assets/d11eecab-626f-4458-a037-13ccbdd7861e)
+![flowchartt drawio](https://github.com/user-attachments/assets/2323977d-1a0b-43ea-a35a-bd6023f5d668)
+
 
 #Output
 
