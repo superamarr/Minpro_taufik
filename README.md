@@ -18,7 +18,7 @@ Sistem Informasi A
 
 2. Jika user salah inputan NIM atau Passorwd
 
-![Screenshot 2024-09-30 125602](https://github.com/user-attachments/assets/78b4127f-1ea5-4796-9bc2-9cb7270d9313)
+   ![Screenshot 2024-09-30 125602](https://github.com/user-attachments/assets/78b4127f-1ea5-4796-9bc2-9cb7270d9313)
 
 
 4. Selanjutnya, User diminta untuk menginput jam kerja dan tarif kerja per jam
