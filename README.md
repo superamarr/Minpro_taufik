@@ -26,10 +26,10 @@ Sistem Informasi A
    ![3](https://github.com/user-attachments/assets/f215f851-1566-4f2a-adc3-954b1c6f8a61)
 
 5. Maka Muncullah Jumlah TOtal Gaji dan Bonus
-![4](https://github.com/user-attachments/assets/e967ab92-ead3-450e-953b-8fab2ef96717)
+   ![4](https://github.com/user-attachments/assets/e967ab92-ead3-450e-953b-8fab2ef96717)
 
 4.Menanyakan apakah user ingin mengulang program atau tidak
-![6](https://github.com/user-attachments/assets/f58ed151-6b7c-4692-a78a-ad8f4a6c7337)
+   ![6](https://github.com/user-attachments/assets/f58ed151-6b7c-4692-a78a-ad8f4a6c7337)
 
 
 
