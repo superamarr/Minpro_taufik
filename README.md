@@ -38,5 +38,14 @@ Sistem Informasi A
    
    ![6](https://github.com/user-attachments/assets/f58ed151-6b7c-4692-a78a-ad8f4a6c7337)
 
+8. Jika user input Y
+
+   ![Screenshot 2024-09-30 132237](https://github.com/user-attachments/assets/c81ae38f-9886-46ed-8dfa-41090b3d0dbc)
+
+9. Jika user input N
+
+    ![Screenshot 2024-09-30 132431](https://github.com/user-attachments/assets/30cbfc6c-8bd3-40ae-bae8-adfda7025b2a)
+
+
 
 
